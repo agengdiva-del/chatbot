@@ -1,0 +1,6 @@
+{
+  "name": "Expert AI System Core",
+  "description": "Kecerdasan buatan tingkat lanjut sebagai konsultan, asisten, dan mentor virtual profesional dari berbagai bidang keahlian dunia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
